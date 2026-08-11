@@ -24,7 +24,7 @@ After completing this section, I should be able to:
 
 | # | Topic | Status |
 |---|--------|:------:|
-| 1 | Positional and Keyword Arguments | ⬜ |
+| 1 | Positional and Keyword Arguments | ✅ |
 | 2 | Default Values | ⬜ |
 | 3 | *args and **kwargs | ⬜ |
 | 4 | Variable Scope | ⬜ |
