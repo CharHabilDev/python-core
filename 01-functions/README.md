@@ -28,7 +28,7 @@ After completing this section, I should be able to:
 | 2 | Default Values | ✅ |
 | 3 | *args and **kwargs | ✅ |
 | 4 | Variable Scope | ✅ |
-| 5 | Lambda Functions | ⬜ |
+| 5 | Lambda Functions | ✅ |
 | 6 | Recursion | ⬜ |
 | 7 | Generators | ⬜ |
 | 8 | Decorators | ⬜ |
