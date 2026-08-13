@@ -27,7 +27,7 @@ After completing this section, I should be able to:
 | 1 | Positional and Keyword Arguments | ✅ |
 | 2 | Default Values | ✅ |
 | 3 | *args and **kwargs | ✅ |
-| 4 | Variable Scope | ⬜ |
+| 4 | Variable Scope | ✅ |
 | 5 | Lambda Functions | ⬜ |
 | 6 | Recursion | ⬜ |
 | 7 | Generators | ⬜ |
