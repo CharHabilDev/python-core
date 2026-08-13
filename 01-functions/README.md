@@ -31,7 +31,7 @@ After completing this section, I should be able to:
 | 5 | Lambda Functions | ✅ |
 | 6 | Recursion | ✅ |
 | 7 | Generators | ✅ |
-| 8 | Decorators | ⬜ |
+| 8 | Decorators | ✅ |
 
 ---
 
