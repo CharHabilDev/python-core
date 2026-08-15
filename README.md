@@ -29,6 +29,11 @@ python-core/
 ├── CHANGELOG.md
 ├── LICENSE
 ├── .gitignore
+│
+├── 01-functions/
+│   ├── chapters/
+│   └── mini-projects/
+│
 └── ...
 ```
 
@@ -40,7 +45,7 @@ The repository will progressively grow as new topics are studied.
 
 | Phase | Topic | Status |
 |-------|-------|:------:|
-| 1 | Functions | ⬜ |
+| 1 | Functions | ✅ |
 | 2 | File System | ⬜ |
 | 3 | Date & Time | ⬜ |
 | 4 | Collections | ⬜ |
