@@ -22,7 +22,7 @@ After completing this section, I should be able to:
 
 | # | Topic | Status |
 |---|--------|:------:|
-| 1 | pathlib | ⬜ |
+| 1 | pathlib | ✅ |
 | 2 | os | ⬜ |
 | 3 | shutil | ⬜ |
 | 4 | tempfile | ⬜ |
