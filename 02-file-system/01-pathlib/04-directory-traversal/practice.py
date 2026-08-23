@@ -44,13 +44,14 @@ print("\n### Exercice 2")
 print("# Affiche tous les éléments présents dans ce dossier.")
 
 if dossier_test.exists():
-    print(f"--- Contenu de {dossier_test.name} ---") # Pas jolie à voir
+    print(f"--- Contenu de {dossier_test.name} ---") 
 
     for element in dossier_test.iterdir():
+        chemin_relatif = element.relative_to(dossier_test)
         if element.is_dir():
-            print("Dossier : ", element)
+            print("Dossier : ", chemin_relatif)
         else:
-            print("Fichier : ", element)
+            print("Fichier : ", chemin_relatif)
 else:
     print("Le dossier n'existe pas.")
 
@@ -58,11 +59,12 @@ else:
 print("\n### Exercice 3")
 print("# Affiche uniquement les fichiers.")
 if dossier_test.exists():
-    print(f"--- Contenu de {dossier_test.name} ---") # Pas jolie à voir
+    print(f"--- Contenu de {dossier_test.name} ---") 
 
     for element in dossier_test.iterdir():
+        chemin_relatif = element.relative_to(dossier_test)
         if element.is_file():
-            print("Fichier : ", element)
+            print("Fichier : ", chemin_relatif)
 else:
     print("Le dossier n'existe pas.")
 
@@ -71,11 +73,12 @@ print("\n### Exercice 4")
 print("Affiche uniquement les dossiers.")
 
 if dossier_test.exists():
-    print(f"--- Contenu de {dossier_test.name} ---") # Pas jolie à voir
+    print(f"--- Contenu de {dossier_test.name} ---") 
 
     for element in dossier_test.iterdir():
+        chemin_relatif = element.relative_to(dossier_test)
         if element.is_dir():
-            print("Dossier : ", element)
+            print("Dossier : ", chemin_relatif)
 else:
     print("Le dossier n'existe pas.")
 
@@ -89,12 +92,12 @@ du dossier.""")
 
 
 for element in dossier_test.glob("*.txt"):
-    print(element)
+    print(element.relative_to(dossier_test))
 
 
 print("\n### Exercice 6")
 for element in dossier_test.rglob("*.txt"):
-    print(element)
+    print(element.relative_to(dossier_test))
 
 
 
