@@ -17,7 +17,7 @@ After completing this section, I should be able to:
 | # | Topic | Status |
 |---|--------|:------:|
 | 1 | Introduction | ✅ |
-| 2 | Environment Variables | ⬜ |
+| 2 | Environment Variables | ✅ |
 | 3 | Working Directory | ⬜ |
 | 4 | System Information | ⬜ |
 | 5 | OS vs Pathlib | ⬜ |
