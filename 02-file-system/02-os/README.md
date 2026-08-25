@@ -20,4 +20,4 @@ After completing this section, I should be able to:
 | 2 | Environment Variables | ✅ |
 | 3 | Working Directory | ✅ |
 | 4 | System Information | ✅ |
-| 5 | OS vs Pathlib | ⬜ |
+| 5 | OS vs Pathlib | ✅ |

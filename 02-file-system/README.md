@@ -20,12 +20,12 @@ After completing this section, I should be able to:
 
 ## Chapters
 
-| # | Topic | Status |
-|---|--------|:------:|
-| 1 | pathlib | ✅ |
-| 2 | os | ⬜ |
-| 3 | shutil | ⬜ |
-| 4 | tempfile | ⬜ |
+| # | Topic     | Status    |
+|---|-----------|:---------:|
+| 1 | pathlib   | ✅        |
+| 2 | os        | ✅        |
+| 3 | shutil    | ⬜        |
+| 4 | tempfile  | ⬜        |
 
 ---
 
