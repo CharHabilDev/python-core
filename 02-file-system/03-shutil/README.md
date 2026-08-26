@@ -24,7 +24,7 @@ After completing this section, I should be able to:
 |---|--------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | Copying Files | ✅ |
-| 3 | Copying Directories | ⬜ |
+| 3 | Copying Directories | ✅ |
 | 4 | Moving and Renaming | ⬜ |
 | 5 | Removing Directory Trees | ⬜ |
 | 6 | Archives | ⬜ |
