@@ -28,10 +28,10 @@ After completing this section, I should be able to:
 | 4 | Moving and Renaming | ✅ |
 | 5 | Removing Directory Trees | ✅ |
 | 6 | Archives | ✅ |
-| 7 | shutil vs os vs pathlib | ⬜ |
+| 7 | shutil vs os vs pathlib | ✅ |
 
 ---
 
 ## Status
 
-⬜ In Progress
+✅ In Progress
