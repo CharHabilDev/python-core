@@ -27,7 +27,7 @@ After completing this section, I should be able to:
 | 3 | Copying Directories | ✅ |
 | 4 | Moving and Renaming | ✅ |
 | 5 | Removing Directory Trees | ✅ |
-| 6 | Archives | ⬜ |
+| 6 | Archives | ✅ |
 | 7 | shutil vs os vs pathlib | ⬜ |
 
 ---
