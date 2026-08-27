@@ -23,7 +23,7 @@ After completing this section, I should be able to:
 |---|--------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | Temporary Files | ✅ |
-| 3 | Temporary Directories | ⬜ |
+| 3 | Temporary Directories | ✅ |
 | 4 | Context Manager | ⬜ |
 | 5 | Practical Use Cases | ⬜ |
 | 6 | tempfile vs pathlib | ⬜ |
