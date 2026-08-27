@@ -26,10 +26,10 @@ After completing this section, I should be able to:
 | 3 | Temporary Directories | ✅ |
 | 4 | Context Manager | ✅ |
 | 5 | Practical Use Cases | ✅ |
-| 6 | tempfile vs pathlib | ⬜ |
+| 6 | tempfile vs pathlib | ✅ |
 
 ---
 
 ## Status
 
-⬜ In Progress
+✅ In Progress

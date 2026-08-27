@@ -25,7 +25,7 @@ After completing this section, I should be able to:
 | 1 | pathlib           | ✅        |
 | 2 | os and platform   | ✅        |
 | 3 | shutil            | ✅        |
-| 4 | tempfile          | ⬜        |
+| 4 | tempfile          | ✅        |
 
 ---
 
