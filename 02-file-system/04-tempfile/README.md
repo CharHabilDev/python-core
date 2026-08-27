@@ -25,7 +25,7 @@ After completing this section, I should be able to:
 | 2 | Temporary Files | ✅ |
 | 3 | Temporary Directories | ✅ |
 | 4 | Context Manager | ✅ |
-| 5 | Practical Use Cases | ⬜ |
+| 5 | Practical Use Cases | ✅ |
 | 6 | tempfile vs pathlib | ⬜ |
 
 ---
