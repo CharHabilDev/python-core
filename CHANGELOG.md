@@ -10,7 +10,6 @@ The format is inspired by **Keep a Changelog**, and this project follows **Seman
 
 ### Planned
 
-- File System
 - Date & Time
 - Collections
 - Standard Tools
@@ -24,6 +23,67 @@ The format is inspired by **Keep a Changelog**, and this project follows **Seman
 - Testing
 - Intermediate Concepts
 - Performance & Optimization
+
+---
+
+## [0.3.0] - 2026-08-30
+
+### Added
+
+#### Phase 2 - File System
+
+##### OS
+
+- Working Directory.
+- Environment Variables.
+- File and Directory Operations.
+- Process Execution.
+
+##### Platform
+
+- Platform Detection.
+- System Information.
+- Cross-Platform Considerations.
+
+##### Pathlib
+
+- Path Creation and Manipulation.
+- File and Directory Inspection.
+- Reading and Writing Files.
+- Path Navigation.
+
+##### Shutil
+
+- Copying Files.
+- Copying Directories.
+- Moving and Renaming.
+- Removing Directory Trees.
+- Archives.
+
+##### Tempfile
+
+- Temporary Files.
+- Temporary Directories.
+- Context Managers.
+- Practical Use Cases.
+- Tempfile vs Manual Files.
+
+#### Notes
+
+- Added `02-file-system/CHEATSHEET.md`.
+
+#### Mini-Projects
+
+- Temporary Workspace Manager.
+- Backup Utility.
+- File Explorer CLI.
+
+### Documentation
+
+- Updated repository structure.
+- Updated roadmap progress.
+- Added chapter documentation.
+- Added mini-project documentation.
 
 ---
 
