@@ -22,7 +22,7 @@ After completing this chapter, I should be able to:
 | # | Topic | Status |
 |---|--------|:------:|
 | 1 | Introduction | ✅ |
-| 2 | Current Date and Time | ⬜ |
+| 2 | Current Date and Time | ✅ |
 | 3 | Datetime Components | ⬜ |
 | 4 | Creating Datetime Objects | ⬜ |
 | 5 | Comparing Datetimes | ⬜ |
