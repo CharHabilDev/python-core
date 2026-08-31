@@ -24,7 +24,7 @@ After completing this chapter, I should be able to:
 | 1 | Introduction | ✅ |
 | 2 | Current Date and Time | ✅ |
 | 3 | Datetime Components | ✅ |
-| 4 | Creating Datetime Objects | ⬜ |
+| 4 | Creating Datetime Objects | ✅ |
 | 5 | Comparing Datetimes | ⬜ |
 | 6 | date, time and datetime | ⬜ |
 
