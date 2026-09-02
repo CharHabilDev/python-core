@@ -24,7 +24,7 @@ After completing this chapter, I should be able to:
 | 2 | Creating Timedeltas | ✅ |
 | 3 | Adding Timedeltas | ✅ |
 | 4 | Subtracting Dates | ✅ |
-| 5 | Timedelta Components | ⬜ |
+| 5 | Timedelta Components | ✅ |
 | 6 | Real-World Use Cases | ⬜ |
 
 ---
