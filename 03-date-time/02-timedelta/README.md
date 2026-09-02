@@ -22,7 +22,7 @@ After completing this chapter, I should be able to:
 |---|-------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | Creating Timedeltas | ✅ |
-| 3 | Adding Timedeltas | ⬜ |
+| 3 | Adding Timedeltas | ✅ |
 | 4 | Subtracting Dates | ⬜ |
 | 5 | Timedelta Components | ⬜ |
 | 6 | Real-World Use Cases | ⬜ |
