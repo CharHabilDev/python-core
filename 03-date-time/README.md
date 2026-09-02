@@ -23,7 +23,7 @@ After completing this section, I should be able to:
 | # | Topic | Status |
 |---|-------|:------:|
 | 1 | datetime | ✅ |
-| 2 | timedelta | ⬜ |
+| 2 | timedelta | ✅ |
 | 3 | strftime & strptime | ⬜ |
 | 4 | time zones | ⬜ |
 | 5 | calendar | ⬜ |
