@@ -21,7 +21,7 @@ After completing this chapter, I should be able to:
 | # | Topic | Status |
 |---|-------|:------:|
 | 1 | Introduction | ✅ |
-| 2 | Creating Timedeltas | ⬜ |
+| 2 | Creating Timedeltas | ✅ |
 | 3 | Adding Timedeltas | ⬜ |
 | 4 | Subtracting Dates | ⬜ |
 | 5 | Timedelta Components | ⬜ |
