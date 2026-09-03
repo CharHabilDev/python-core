@@ -23,7 +23,7 @@ After completing this chapter, I should be able to:
 |---|-------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | strftime() | ✅ |
-| 3 | strptime() | ⬜ |
+| 3 | strptime() | ✅ |
 | 4 | Format Codes | ⬜ |
 | 5 | Parsing User Input | ⬜ |
 | 6 | Real-World Use Cases | ⬜ |
