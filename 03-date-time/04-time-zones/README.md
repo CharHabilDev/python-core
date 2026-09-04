@@ -25,10 +25,8 @@ After completing this chapter, I should be able to:
 |---|-------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | Naive and Aware Datetimes | ✅ |
-| 3 | UTC | ⬜ |
-| 4 | ZoneInfo | ⬜ |
-| 5 | Converting Time Zones | ⬜ |
-| 6 | Real-World Use Cases | ⬜ |
+| 3 | ZoneInfo and Conversions | ⬜ |
+| 4 | Real-World Use Cases | ⬜ |
 
 ---
 
