@@ -25,5 +25,5 @@ After completing this chapter, I should be able to:
 | 2 | strftime() | ✅ |
 | 3 | strptime() | ✅ |
 | 4 | Format Codes | ✅ |
-| 5 | Parsing User Input | ⬜ |
+| 5 | Parsing User Input | ✅ |
 | 6 | Real-World Use Cases | ⬜ |
