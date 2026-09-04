@@ -24,7 +24,7 @@ After completing this section, I should be able to:
 |---|-------|:------:|
 | 1 | datetime | ✅ |
 | 2 | timedelta | ✅ |
-| 3 | strftime & strptime | ⬜ |
+| 3 | strftime & strptime | ✅ |
 | 4 | time zones | ⬜ |
 | 5 | calendar | ⬜ |
 
