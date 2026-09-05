@@ -23,7 +23,7 @@ After completing this chapter, I should be able to:
 | 1 | Introduction | ✅ |
 | 2 | Month Calendars | ✅ |
 | 3 | Weekday Names | ✅ |
-| 4 | Calendar Utilities | ⬜ |
+| 4 | Calendar Utilities | ✅ |
 | 5 | Real-World Use Cases | ⬜ |
 
 ---
