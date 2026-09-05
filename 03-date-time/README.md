@@ -40,9 +40,9 @@ Calculate a person's age from their birth date.
 
 Display the remaining time until a specific event.
 
-### Daily Journal
+### Event Manager
 
-Create journal entries with automatic timestamps.
+Create and manage events with dates and times.
 
 ---
 
