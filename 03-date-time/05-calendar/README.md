@@ -24,10 +24,10 @@ After completing this chapter, I should be able to:
 | 2 | Month Calendars | ✅ |
 | 3 | Weekday Names | ✅ |
 | 4 | Calendar Utilities | ✅ |
-| 5 | Real-World Use Cases | ⬜ |
+| 5 | Real-World Use Cases | ✅ |
 
 ---
 
 ## Status
 
-🚧 In Progress
+✅ Completed
