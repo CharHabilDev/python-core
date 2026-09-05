@@ -27,10 +27,10 @@ After completing this chapter, I should be able to:
 | 2 | Naive and Aware Datetimes | ✅ |
 | 3 | ZoneInfo | ✅ |
 | 4 | Converting Time Zones | ✅ |
-| 5 | Real-World Use Cases | ⬜ |
+| 5 | Real-World Use Cases | ✅ |
 
 ---
 
 ## Status
 
-⬜ In Progress
+✅ Completed
