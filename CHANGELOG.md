@@ -26,6 +26,58 @@ The format is inspired by **Keep a Changelog**, and this project follows **Seman
 
 ---
 
+## [0.4.0] - 2026-09-06
+
+### Added
+
+#### Phase 3 - Date & Time
+
+##### Datetime
+
+- Datetime Fundamentals.
+- Creating Datetime Objects.
+- Current Date and Time.
+- Formatting Dates and Times.
+- Parsing Strings into Datetimes.
+- Date Comparisons.
+- Timedelta.
+- Date Calculations.
+
+##### Time Zones
+
+- Introduction.
+- Naive and Aware Datetimes.
+- ZoneInfo.
+- Converting Time Zones.
+- Real-World Use Cases.
+
+##### Calendar
+
+- Calendar Module.
+- Monthly Calendars.
+- Weekday Names.
+- Calendar Utilities.
+- Real-World Use Cases.
+
+#### Notes
+
+- Added `03-date-time/CHEATSHEET.md`.
+
+#### Mini-Projects
+
+- Age Calculator.
+- Event Countdown.
+- Event Manager.
+
+### Documentation
+
+- Updated repository structure.
+- Updated roadmap progress.
+- Added chapter documentation.
+- Added mini-project documentation.
+
+---
+
 ## [0.3.0] - 2026-08-30
 
 ### Added
