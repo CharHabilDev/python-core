@@ -19,6 +19,17 @@ This repository serves as my personal Python reference, covering core concepts, 
 The purpose of this repository is not to collect code snippets, but to understand Python concepts through explanations, practical examples, exercises, and mini-projects. Each topic is documented progressively as it is learned and practiced.
 
 ---
+## What Each Topic Contains
+
+Each topic generally includes:
+
+- README
+- Chapters
+- Exercises
+- Mini-projects
+- Notes and cheatsheets (when relevant)
+
+---
 
 ## Repository Structure
 
@@ -30,18 +41,9 @@ python-core/
 ├── LICENSE
 ├── .gitignore
 │
-├── 01-functions/
-│   ├── chapters/
-│   └── mini-projects/
-│
+├── 01-functions/│
 ├── 02-file-system/
-│   ├── 03-pathlib/ 
-│   ├── 02-os/
-│   ├── 03-shutil/
-│   ├── 04-tempfile/
-│   ├── CHEATSHEET.md
-│   ├── README.md
-│   └── mini-projects/
+├── 03-date-time/
 │
 └── ...
 ```
@@ -52,11 +54,11 @@ The repository will progressively grow as new topics are studied.
 
 ## Learning Progress
 
-| Phase | Topic | Status |
-|-------|-------|:------:|
+| # | Topic | Status |
+|---|-------|:------:|
 | 1 | Functions | ✅ |
 | 2 | File System | ✅ |
-| 3 | Date & Time | ⬜ |
+| 3 | Date & Time | ✅ |
 | 4 | Collections | ⬜ |
 | 5 | Standard Tools | ⬜ |
 | 6 | Data Formats | ⬜ |
