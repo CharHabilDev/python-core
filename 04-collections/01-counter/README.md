@@ -22,7 +22,7 @@ After completing this chapter, I should be able to:
 |---|-------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | Creating a Counter | ✅ |
-| 3 | Accessing Counts | ⬜ |
+| 3 | Accessing Counts | ✅ |
 | 4 | Most Common Elements | ⬜ |
 | 5 | Real-World Use Cases | ⬜ |
 
