@@ -20,7 +20,7 @@ After completing this chapter, I should be able to:
 
 | # | Topic | Status |
 |---|-------|:------:|
-| 1 | Introduction | ⬜ |
+| 1 | Introduction | ✅ |
 | 2 | Creating a Deque | ⬜ |
 | 3 | Adding and Removing Elements | ⬜ |
 | 4 | Rotation and Maximum Length | ⬜ |
