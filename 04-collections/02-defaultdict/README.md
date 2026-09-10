@@ -24,10 +24,10 @@ After completing this chapter, I should be able to:
 | 2 | Creating a defaultdict | ✅ |
 | 3 | Default Factories | ✅ |
 | 4 | Grouping Data | ✅ |
-| 5 | Real-World Use Cases | ⬜ |
+| 5 | Real-World Use Cases | ✅ |
 
 ---
 
 ## Status
 
-⬜ In Progress
+✅ Completed
