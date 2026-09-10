@@ -22,7 +22,7 @@ After completing this chapter, I should be able to:
 |---|-------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | Creating a defaultdict | ✅ |
-| 3 | Default Factories | ⬜ |
+| 3 | Default Factories | ✅ |
 | 4 | Grouping Data | ⬜ |
 | 5 | Real-World Use Cases | ⬜ |
 
