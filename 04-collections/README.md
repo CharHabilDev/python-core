@@ -21,8 +21,8 @@ After completing this phase, I should be able to:
 | # | Topic | Status |
 |---|-------|:------:|
 | 1 | Counter | ✅ |
-| 2 | defaultdict | ⬜ |
-| 3 | deque | ⬜ |
+| 2 | defaultdict | ✅ |
+| 3 | deque | ✅ |
 | 4 | namedtuple | ⬜ |
 
 ---

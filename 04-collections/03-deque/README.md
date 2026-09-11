@@ -24,7 +24,7 @@ After completing this chapter, I should be able to:
 | 2 | Creating a Deque | ✅ |
 | 3 | Adding and Removing Elements | ✅ |
 | 4 | Rotation and Maximum Length | ✅ |
-| 5 | Real-World Use Cases | ⬜ |
+| 5 | Real-World Use Cases | ✅ |
 
 ---
 
@@ -57,4 +57,4 @@ A deque provides efficient operations on both sides of the container.
 
 ## Status
 
-⬜ In Progress
+✅ Completed
