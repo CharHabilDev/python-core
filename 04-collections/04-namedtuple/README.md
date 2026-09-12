@@ -22,7 +22,7 @@ After completing this chapter, I should be able to:
 |---|-------|:------:|
 | 1 | Introduction | ✅ |
 | 2 | Creating a namedtuple | ✅ |
-| 3 | Accessing Fields | ⬜ |
+| 3 | Accessing Fields | ✅ |
 | 4 | Useful Features | ⬜ |
 | 5 | Real-World Use Cases | ⬜ |
 
