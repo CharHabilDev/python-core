@@ -1,0 +1,58 @@
+[
+    {
+        "id": "N001",
+        "name": "Alice Martin",
+        "phone": "+32471234567",
+        "email": "alice.martin@example.com",
+        "city": "Brussels"
+    },
+    {
+        "id": "N002",
+        "name": "Thomas Dubois",
+        "phone": "+32479876543",
+        "email": "thomas.dubois@example.com",
+        "city": "Brussels"
+    },
+    {
+        "id": "N003",
+        "name": "Yasmine Ahmed",
+        "phone": "+2290144752517",
+        "email": "yasmine.ahmed@example.com",
+        "city": "Cotonou"
+    },
+    {
+        "id": "N004",
+        "name": "David Johnson",
+        "phone": "+2290198765432",
+        "email": "david.johnson@example.com",
+        "city": "Cotonou"
+    },
+    {
+        "id": "N005",
+        "name": "Sarah Leroy",
+        "phone": "+33612345678",
+        "email": "sarah.leroy@example.com",
+        "city": "Paris"
+    },
+    {
+        "id": "N006",
+        "name": "Lucas Bernard",
+        "phone": "+33687654321",
+        "email": "lucas.bernard@example.com",
+        "city": "Paris"
+    },
+    {
+        "id": "N007",
+        "name": "Ibrahim Sanni",
+        "phone": "+2290155555555",
+        "email": "ibrahim.sanni@example.com",
+        "city": "Porto-Novo"
+    },
+    {
+        "id": "N008",
+        "name": "Mariam Kouassi",
+        "phone": "+2250707070707",
+        "email": "mariam.kouassi@example.com",
+        "city": "Abidjan"
+    }
+]
