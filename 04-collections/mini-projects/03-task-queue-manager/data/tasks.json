@@ -1,0 +1,62 @@
+[
+    {
+        "id": "T001",
+        "title": "Finish Python Foundations",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "id": "T002",
+        "title": "Review CS50 Lecture",
+        "priority": "Medium",
+        "status": "Completed"
+    },
+    {
+        "id": "T003",
+        "title": "Practice SQL Joins",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "id": "T004",
+        "title": "Update GitHub README",
+        "priority": "Low",
+        "status": "Completed"
+    },
+    {
+        "id": "T005",
+        "title": "Build Flask Project",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": "T006",
+        "title": "Read Python Documentation",
+        "priority": "Medium",
+        "status": "Pending"
+    },
+    {
+        "id": "T007",
+        "title": "Organize Notes",
+        "priority": "Low",
+        "status": "Pending"
+    },
+    {
+        "id": "T008",
+        "title": "Create Database Schema",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": "T009",
+        "title": "Refactor Contact Manager",
+        "priority": "Medium",
+        "status": "Pending"
+    },
+    {
+        "id": "T010",
+        "title": "Write Unit Tests",
+        "priority": "High",
+        "status": "Pending"
+    }
+]
