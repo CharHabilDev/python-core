@@ -10,9 +10,7 @@ The format is inspired by **Keep a Changelog**, and this project follows **Seman
 
 ### Planned
 
-- Date & Time
-- Collections
-- Standard Tools
+- Standard Tools 
 - Data Formats
 - CLI Applications
 - Logging
@@ -23,6 +21,73 @@ The format is inspired by **Keep a Changelog**, and this project follows **Seman
 - Testing
 - Intermediate Concepts
 - Performance & Optimization
+
+---
+
+## [0.5.0] - 2026-09-21
+
+### Added
+
+#### Phase 4 - Collections
+
+##### Deque
+
+- Introduction.
+- Creating Deques.
+- Append and Appendleft.
+- Pop and Popleft.
+- FIFO Queues.
+- LIFO Stacks.
+- Rotate.
+- Maxlen.
+
+##### Namedtuple
+
+- Introduction.
+- Creating Namedtuples.
+- Type Names and Field Names.
+- Creating Instances.
+- Access by Name.
+- Access by Index.
+- _fields.
+- _asdict().
+- _replace().
+- _make().
+
+##### Defaultdict
+
+- Introduction.
+- Default Values.
+- Grouping Data.
+- Counting Data.
+- Set-Based Collections.
+- Practical Use Cases.
+
+##### Counter
+
+- Introduction.
+- Counting Elements.
+- Accessing Frequencies.
+- most_common().
+- Frequency Analysis.
+- Practical Use Cases.
+
+#### Notes
+
+- Added `04-collections/CHEATSHEET.md`.
+
+#### Mini-Projects
+
+- Text Analyzer CLI.
+- Contact Manager CLI.
+- Task Queue Manager CLI.
+
+### Documentation
+
+- Updated repository structure.
+- Updated roadmap progress.
+- Added chapter documentation.
+- Added mini-project documentation.
 
 ---
 
