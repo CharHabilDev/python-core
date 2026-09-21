@@ -23,7 +23,7 @@ After completing this phase, I should be able to:
 | 1 | Counter | ✅ |
 | 2 | defaultdict | ✅ |
 | 3 | deque | ✅ |
-| 4 | namedtuple | ⬜ |
+| 4 | namedtuple | ✅ |
 
 ---
 
@@ -37,4 +37,4 @@ After completing this phase, I should be able to:
 
 ## Status
 
-⬜ In Progress
+✅ Completed
