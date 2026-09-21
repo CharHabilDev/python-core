@@ -44,6 +44,7 @@ python-core/
 ├── 01-functions/│
 ├── 02-file-system/
 ├── 03-date-time/
+├── 04-collections/
 │
 └── ...
 ```
@@ -59,7 +60,7 @@ The repository will progressively grow as new topics are studied.
 | 1 | Functions | ✅ |
 | 2 | File System | ✅ |
 | 3 | Date & Time | ✅ |
-| 4 | Collections | ⬜ |
+| 4 | Collections | ✅ |
 | 5 | Standard Tools | ⬜ |
 | 6 | Data Formats | ⬜ |
 | 7 | CLI Applications | ⬜ |
